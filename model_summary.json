@@ -1,0 +1,18 @@
+{
+  "best_model": "朴素贝叶斯",
+  "test_accuracy": 1.0,
+  "cv_mean_accuracy": 1.0,
+  "cv_std_accuracy": 0.0,
+  "confusion_matrix": [
+    [
+      558,
+      0
+    ],
+    [
+      0,
+      238
+    ]
+  ],
+  "feature_count": 826,
+  "data_size": 3978
+}
